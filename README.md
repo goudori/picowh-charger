@@ -10,3 +10,5 @@
 
 # 3.充電器をRaspberry Pi PicoWHに接続すれば、起動する。
 
+https://github.com/user-attachments/assets/96d70c17-4775-4714-8cbf-f4ec56423e85
+
