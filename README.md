@@ -6,7 +6,7 @@
 
 # 1.VSCodeを使って電子部品を実行するコードを書いて、コードを綺麗にする。
 
-# 2.Thonnyを使って、VSCodeで、書いたコードをコピペし、「Raspberry Pi Pico」を選択して名前を付けて保存する。
+# 2.Thonnyを使って、VSCodeで、書いたコードをコピペし、「Raspberry Pi Pico」を選択して「main.py」と必ず名前を付けて保存する。
 
 # 3.充電器をRaspberry Pi PicoWHに接続すれば、起動する。
 
